@@ -1,2 +1,3 @@
 # SmallYouTube
-Simple small youtube clone
+CameraShot allows you to click ypour photo using your webcam 
+
